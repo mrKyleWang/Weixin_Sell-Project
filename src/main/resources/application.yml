@@ -19,5 +19,9 @@ server:
 
 
 wxchat:
-  mpAppId:
-  mpAppSecret:
+  mpAppId: wx70366a10cb72ea99
+  mpAppSecret: a8bf30aeba88de15e0cafcf9c6e86c6a
+  mchId:
+  mchKey:
+  # TODO 缺少商户相关认证
+  keyPath:
